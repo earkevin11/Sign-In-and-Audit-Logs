@@ -22,13 +22,41 @@ To access the sign-ins log, you need to be:
 - - Global reader
 - - Reports reader
 
-# To view the sign-in logs. Azure AD > Select <em> Sign-In logs </em> under <em> Monitoring </em>
+# To view the sign-in logs. 
+
+Navigate to Azure AD > Select <em> Sign-In logs </em> under <em> Monitoring </em>
 
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/166808038-cb1daea4-8a35-49ce-b812-b758b582188c.png" height="100%" width="100%" alt="AZ Active Directory"/>
+<img src="https://user-images.githubusercontent.com/104326475/166808038-cb1daea4-8a35-49ce-b812-b758b582188c.png" height="100%" width="100%" alt="Sign-In logs"/>
   
 <p/>
 
-Above, you can see when a user signed in, status of the sign-in, and more. IT administrators can use these details to make decisions and improve on securing the environmnent.
+Above, you can see when a user signed in, status of the sign-in, and more. <br>
+IT administrators use these details to make decisions and improve on securing the environmnent.
+
+# Audit Logs
+
+What is the purpose of Audit logs?
+
+This is where IT admins can view the activity performed on these resources.
+
+To access the audit logs, you need to be one of the following roles:
+
+- Security Administrator
+- Security Reader
+- Report Reader
+- Global Reader
+- Global Administrator
+
+
+<p align="center">
+  
+<img src="https://user-images.githubusercontent.com/104326475/167227373-4d30c19b-daee-4eb5-b947-0596c1c4fa49.png" height="100%" width="100%" alt="Audit Logs"
+  
+<p/>
+
+# To view the audit logs.
+
+Navigate to Azure AD > Select <em> Audit logs </em> under <em> Monitoring </em>
