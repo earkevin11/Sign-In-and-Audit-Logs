@@ -53,7 +53,7 @@ To access the audit logs, you need to be one of the following roles:
 
 <p align="center">
   
-<img src="https://user-images.githubusercontent.com/104326475/167227373-4d30c19b-daee-4eb5-b947-0596c1c4fa49.png" height="100%" width="100%" alt="Audit Logs"
+<img src="https://user-images.githubusercontent.com/104326475/167227373-4d30c19b-daee-4eb5-b947-0596c1c4fa49.png" height="100%" width="100%" alt="Audit Logs" />
   
 <p/>
 
