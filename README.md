@@ -60,3 +60,6 @@ To access the audit logs, you need to be one of the following roles:
 # To view the audit logs.
 
 Navigate to Azure AD > Select <em> Audit logs </em> under <em> Monitoring </em>
+
+Here you can see application management and user management activity. 
+For example, I created users.
